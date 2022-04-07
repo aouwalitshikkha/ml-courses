@@ -17,15 +17,17 @@
     1. এনাকোন্ডা 
     2. জুপিটার নোটবুক 
 
-3. Numpy বেসিক 
-4. Pandas
-5. Data Visualization ( MatPlotLib & Seaborn ) 
-6. Scikit Learn For ML 
-    1. Supervised Learning 
-        - Learning Regression 
-        - Logistic Regression 
-        - Classification Using SVM
-        - Classification Using KNN
+3. নামপাই (**Numpy**)  বেসিক 
+4.  পান্ডাস (**Pandas**) বেসিক 
+5. ডাটা ভিজুয়ালাইজেশন 
+6. সাইকিট লার্ন (**Scikit Learn**)
+    1. সুপারভাইজড লার্নিং 
+        - লিনিয়ার রিগ্রেশন 
+        - লজিস্টিক রিগ্রেশন 
+        - সাপোর্ট ভেক্টর মেশিন (SVM) এর মাধ্যমে ক্লাসিফিকেশন
+        - কে এন এন (**KNN**)এর মাধ্যমে ক্লাসিফিকেশন 
+
+
 
 
 
