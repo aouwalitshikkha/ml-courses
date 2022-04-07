@@ -9,7 +9,7 @@
 ফোল্ডার অনুসারে দেখুন 
 
 1. [মেশিন লার্নিং কি ও তার প্রকারভেদ ?](https://github.com/aouwalitshikkha/ml-courses/tree/main/What%20is%20ML)   
-    1. [সুপারভাইজড লার্নিং]()
+    1. [সুপারভাইজড লার্নিং](https://github.com/aouwalitshikkha/ml-courses/tree/main/supervised-learning)
     2. আনসুপারভাইজড লার্নিং
     3. রি-ইনফোর্সমেন্ট লার্নিং 
     4. সুপারভাইজড লার্নিং ও আন সুপারভাইজড লার্নিং এর পার্থক্য 
