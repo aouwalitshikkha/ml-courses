@@ -13,7 +13,19 @@
     2. আনসুপারভাইজড লার্নিং
     3. রি-ইনফোর্সমেন্ট লার্নিং 
     4. সুপারভাইজড লার্নিং ও আন সুপারভাইজড লার্নিং এর পার্থক্য 
-    
+2. শুরু করতে যা যা লাগবে
+    1. এনাকোন্ডা 
+    2. জুপিটার নোটবুক 
 
-    
+3. Numpy বেসিক 
+4. Pandas
+5. Data Visualization ( MatPlotLib & Seaborn ) 
+6. Scikit Learn For ML 
+    1. Supervised Learning 
+        - Learning Regression 
+        - Logistic Regression 
+        - Classification Using SVM
+        - Classification Using KNN
+
+
 
