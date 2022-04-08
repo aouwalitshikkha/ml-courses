@@ -6,6 +6,6 @@
 ---
 ## আন সুপারভাইজড লার্নিং এর কিছু টেকনিক 
 1. ক্লাস্টারিং (Clustering): পুরা ডাটা সেটকে সিমিলারিটি অনুসারে গ্রুপিং করাকে বুঝানো হয় । নিচের চিত্র দেখলে খুব সহজেই ক্লাস্টারিং বুঝতে পারবেন ।   
-![ক্লাস্টারিং]()
+![ক্লাস্টারিং](https://github.com/aouwalitshikkha/ml-courses/blob/main/unsupervised-learning/images/cluster.jpg)
 2. আন-ইউজাল ডাটা ডিটেকশন (Anomaly Detection)
 
